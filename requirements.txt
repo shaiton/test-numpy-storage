@@ -1,0 +1,8 @@
+numpy
+psycopg
+psycopg-binary
+flake8
+mccabe
+pycodestyle
+pyflakes
+pgvector
